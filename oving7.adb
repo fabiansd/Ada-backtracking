@@ -44,7 +44,7 @@ procedure oving7 is
         
     end Transaction_Manager;
 
-
+ 
 
     
     function Unreliable_Slow_Add (x : Integer) return Integer is
